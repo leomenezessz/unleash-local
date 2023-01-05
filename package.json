@@ -1,0 +1,21 @@
+{
+  "name": "unleash-local",
+  "version": "0.0.1",
+  "description": "A unsleah image to using local with a bunch of paramters.",
+  "start": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "unleash",
+    "local"
+  ],
+  "author": "Leonardo Menezes",
+  "license": "MIT",
+  "dependencies": {
+    "unleash-server": "3.17.6"
+  },
+  "devDependencies": {
+    "prettier": "2.8.1"
+  }
+}
